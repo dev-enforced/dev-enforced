@@ -47,6 +47,6 @@
 ## Github Stats 📃:
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-enforced&count_private=true&include_all_commits=true&theme=tokyonight" alt="Anjali's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-enforced&layout=compact&theme=tokyonight" alt="Anjali's top language stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-enforced&count_private=true&include_all_commits=true&theme=tokyonight" alt="Roshan's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-enforced&layout=compact&theme=tokyonight" alt="Roshan's top language stats" />
 </p>
